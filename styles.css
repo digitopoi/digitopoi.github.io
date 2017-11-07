@@ -7,6 +7,10 @@ nav {
     color: #fdfdfd;
 }
 
+h6 {
+    font-size: 1.25em;
+}
+
 .names {
     display: none;
 }
@@ -25,3 +29,31 @@ nav {
     margin-bottom: 40px;
     z-index: 900;
 } 
+
+#nav-mobile {
+    z-index: 999;
+}
+
+#about-me {
+    background-color: #263238;
+    color: white;
+}
+
+.dark-divider {
+    color: #546e7a;
+    background-color: #546e7a;
+}
+
+.info {
+    text-align: justify;
+    text-justify: distribute;
+}
+
+.page-footer {
+    background-color: #fdfdfd;
+    color: #263238;
+}
+
+#copyright {
+    color: #263238;
+}
